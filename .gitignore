@@ -1,0 +1,9 @@
+.DS_Store
+.idea/
+credentials.json
+*.pickle
+env/
+venv/
+.venv/
+local/
+tmp/
